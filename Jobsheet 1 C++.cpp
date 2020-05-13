@@ -16,6 +16,6 @@ int main()
 	cout << NIM[2] << " : Riyan Fathurrahman" << endl;
 	cout << NIM[3] << " : Rohul Iman" << endl;
 	cout << NIM[4] << " : Zahratul laily" << endl;
-		
+		 
 	return 0;
 }
